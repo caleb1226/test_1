@@ -1,4 +1,9 @@
 x = 1
 print(x)
+fuck = 1
+china = 1
 
-peice_of_shit
+fuck = 2
+
+
+fuck = 3
